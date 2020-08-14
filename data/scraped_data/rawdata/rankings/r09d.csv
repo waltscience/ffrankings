@@ -1,0 +1,33 @@
+FantasyPros.com 
+ NFL Rankings 
+
+
+Rank,Player Name,Team,Position,ECR,vs. ECR
+1,San Francisco 49ers,SF,DST,1,0,
+2,Buffalo Bills,BUF,DST,2,0,
+3,New England Patriots,NE,DST,3,0,
+4,Cleveland Browns,CLE,DST,5,1,
+5,Philadelphia Eagles,PHI,DST,4,-1,
+6,Carolina Panthers,CAR,DST,6,0,
+7,Jacksonville Jaguars,JAC,DST,12,5,
+8,Seattle Seahawks,SEA,DST,7,-1,
+9,New York Jets,NYJ,DST,8,-1,
+10,Dallas Cowboys,DAL,DST,9,-1,
+11,Chicago Bears,CHI,DST,16,5,
+12,Pittsburgh Steelers,PIT,DST,14,2,
+13,Denver Broncos,DEN,DST,10,-3,
+14,Tennessee Titans,TEN,DST,15,1,
+15,Minnesota Vikings,MIN,DST,11,-4,
+16,Indianapolis Colts,IND,DST,17,1,
+17,Washington Football Team,WAS,DST,19,2,
+18,Green Bay Packers,GB,DST,13,-5,
+19,Arizona Cardinals,ARI,DST,26,7,
+20,Baltimore Ravens,BAL,DST,25,5,
+21,Kansas City Chiefs,KC,DST,21,0,
+22,Detroit Lions,DET,DST,20,-2,
+23,Los Angeles Chargers,LAC,DST,22,-1,
+24,Miami Dolphins,MIA,DST,23,-1,
+25,Las Vegas Raiders,LV,DST,24,-1,
+26,Houston Texans,HOU,DST,18,-8,
+27,Tampa Bay Buccaneers,TB,DST,27,0,
+28,New York Giants,NYG,DST,28,0,
