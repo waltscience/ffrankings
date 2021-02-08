@@ -1,5 +1,4 @@
 # ffrankings
-
 Comparing fantasy football rankings vs. fantasy points scored for the 2019 season.
 
 ## Are fantasy football ranking accurate?
